@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data (download separately; see README)
+data/raw/*.csv
+data/raw/*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
